@@ -14,6 +14,6 @@ This is a basic front-end calculator developed as part of my internship at **Mic
 - Clear and backspace buttons
 
 ## 📁 Project Structure
-index.html - Structure of the calculator
-style.css - Styling and layout
-script.js - Functionality using JavaScript
+- index.html - Structure of the calculator
+- style.css - Styling and layout
+- script.js - Functionality using JavaScript
